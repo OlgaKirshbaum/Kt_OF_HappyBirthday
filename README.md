@@ -19,3 +19,4 @@
 
 ### Изображение приложения:
 
+![Screenshot_1622626105](https://user-images.githubusercontent.com/77355204/120459394-d58e7980-c3a0-11eb-8a17-893a22a4794e.png)
